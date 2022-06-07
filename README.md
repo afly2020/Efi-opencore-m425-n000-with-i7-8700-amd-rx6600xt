@@ -1,6 +1,7 @@
 # Efi-opencore-m425-n000-with-i7-8700-amd-rx6600xt
 一、硬件配置：
 1、联想台式机M425-N000：主板芯片组为B360m，cpui7-8700，核显UHD630(八代)；原机ps2键盘+USB鼠标
+
 2、原机8G内存，自加8G组成双通道；一块500G容量的ssd装系统；显示器接RX 6600XT DP口
 !<img width="534" alt="截屏2022-06-07 02 49 41" src="https://user-images.githubusercontent.com/73520300/172290213-ada48807-454f-4786-adac-0bd572ab3637.png">
 [联想m425-n000基本参数](https://user-images.githubusercontent.com/73520300/172289383-81b5452f-1f25-4566-8de4-4b8c7b2ba861.png)
@@ -17,8 +18,10 @@
 三、双显卡使用情况
 1、双硬解
 <img width="881" alt="截屏2022-06-07 11 39 10" src="https://user-images.githubusercontent.com/73520300/172290781-e93b7144-c18e-4e3b-bf74-a328280af574.png">
+
 2、Intel Power Gadget监测
 <img width="394" alt="截屏2022-06-07 11 41 03" src="https://user-images.githubusercontent.com/73520300/172291002-e4206d76-1018-4e35-aad3-8389ce7b2f33.png">
+
 3、Geekbench5跑分
 <img width="899" alt="截屏2022-06-07 02 37 01" src="https://user-images.githubusercontent.com/73520300/172291286-0c22833b-2ff6-4d43-b2e2-b0c5c2c93804.png">
 <img width="868" alt="截屏2022-06-07 02 37 18" src="https://user-images.githubusercontent.com/73520300/172291293-26ebb20e-1e80-4cd2-b870-b05399e28e12.png">
